@@ -3,3 +3,4 @@ torchvision==0.19.1
 pycuda==2024.1.2
 tensorrt==10.4.0
 tritonclient[all]
+tqdm==4.66.5
